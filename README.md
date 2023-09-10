@@ -17,8 +17,9 @@ Welcome to the **_programming core_** of our groundbreaking research! Dive deep 
 - **🚀 Implications & Future Directions:** Embarking on this pioneering odyssey, we spotlight the boundless potential of word embeddings in decoding human emotions. Envision a future where psychology intertwines seamlessly with cutting-edge tech, deepening our collective grasp on emotional constructs in real-world, data-driven scenarios.
 
 ---
-** A plot of first two PCA dimensions**
+** A plot of the first two PCA dimensions**
 ![PCA Plot](./plots/pca1_2.png)
+
 ---
 🔗 Dive into our code, and immerse yourself in transformative findings. Together, let's navigate this riveting confluence of human emotion and advanced NLP! 🌌
 
