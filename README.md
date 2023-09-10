@@ -1,4 +1,4 @@
-**🌟 Emotion Decomposition via Word Embeddings: A Reddit Dataset 🌟**
+**🌟 Emotion Decomposition via Word Embeddings 🌟**
 
 ---
 
