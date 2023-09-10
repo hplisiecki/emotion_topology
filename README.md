@@ -8,7 +8,7 @@ Welcome to the **_programming core_** of our groundbreaking research! Dive deep 
 
 **🔍 Highlights:**
 
-- **🌐 Dataset Source:** Extracted from the ever-evolving landscape of the social media giant, Reddit, our dataset is not just vast—it's a tapestry of raw, unfiltered human interactions.
+- **🌐 Dataset Source:** Utilized a fascinating Reddit dataset GoEmotions developed by Google https://huggingface.co/datasets/go_emotions
 
 - **🧠 Methodology:** Our state-of-the-art approach involves meticulously crafting emotion vectors, offering a window into the multifaceted dimensions of emotional experiences hidden within the tapestry of human language.
 
