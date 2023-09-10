@@ -18,6 +18,7 @@ Welcome to the **_programming core_** of our groundbreaking research! Dive deep 
 
 ---
 **A plot of the first two PCA dimensions**  
+  
 <img src="./plots/pca1_2.png" width="600">
 
 ---
