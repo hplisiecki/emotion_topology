@@ -1,5 +1,6 @@
 **🌟 Emotion Decomposition via Word Embeddings 🌟**
 
+![PCA Plot](./plots/pca1_2.png)
 ---
 
 ✨ **Description:**
